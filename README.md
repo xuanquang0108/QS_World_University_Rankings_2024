@@ -31,7 +31,7 @@ The analysis provided clear quantitative insights into the university's performa
 | :--- | :--- |
 | `QS_Ranking_Project.ipynb` | The complete Jupyter Notebook containing all the code for data cleaning, EDA, visualization, and metric construction. |
 | `README.md` | Project summary, key findings, and technical stack. (This file) |
-| `data/qs_ranking_2024.csv` | The raw dataset used for the analysis. |
+| `2024 QS World University Rankings.csv` | The raw dataset used for the analysis. |
 
 ---
 
