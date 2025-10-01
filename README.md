@@ -9,8 +9,8 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on the QS 
 
 The analysis provided clear quantitative insights into the university's performance metrics:
 
-* **Factor Impact Analysis:** Identified the top factors influencing a university's Overall Score through correlation and visualization techniques (e.g., highlighting that Academic Reputation has a correlation of `r = 0.XX` with the final score).
-* **Custom Metric Construction:** Developed a **Composite Score** based on **5 core criteria** (e.g., Academic Reputation, Faculty-Student Ratio, Citations per Faculty) to offer a data-backed recommendation system.
+* **Factor Impact Analysis:** Identified the top factors influencing a university's Overall Score through correlation and visualization techniques.
+* **Custom Metric Construction:** Developed a **Composite Score** based on **5 core criteria** to offer a data-backed recommendation system.
 * **Data Scope:** Successfully processed and analyzed **over 10 unique variables** for each of the 1,497 institutions.
 
 ---
@@ -39,4 +39,4 @@ The analysis provided clear quantitative insights into the university's performa
 
 Click the badge below to explore the detailed analysis steps, visualizations, and code execution.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](*[Chèn liên kết công khai Colab/Notebook của bạn tại đây]*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](*https://colab.research.google.com/drive/1q-wTJOKvMRaaUEXXN1eKDUYBO_ppYR-l?authuser=3#scrollTo=BMV3HQTWPF98*)
