@@ -39,4 +39,4 @@ The analysis provided clear quantitative insights into the university's performa
 
 Click the badge below to explore the detailed analysis steps, visualizations, and code execution.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](*[https://colab.research.google.com/drive/1q-wTJOKvMRaaUEXXN1eKDUYBO_ppYR-l?authuser=3#scrollTo=BMV3HQTWPF98]*)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1q-wTJOKvMRaaUEXXN1eKDUYBO_ppYR-l?authuser=3#scrollTo=BMV3HQTWPF98])
